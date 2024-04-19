@@ -1,0 +1,7 @@
+llama-index-embeddings-instructor
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+gradio
+folium
+geopy
+llama-index
